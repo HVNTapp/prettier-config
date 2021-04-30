@@ -1,0 +1,16 @@
+{
+  "name": "@hvntapp/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for the HVNT organization",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HVNTapp/prettier-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "Johan Guttormsson <johan@hvnt.co>",
+  "license": "ISC",
+  "homepage": "https://github.com/HVNTapp/prettier-config#readme"
+}
