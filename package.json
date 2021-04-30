@@ -2,7 +2,7 @@
   "name": "@hvntapp/prettier-config",
   "version": "1.0.0",
   "description": "Prettier config for the HVNT organization",
-  "main": "index.js",
+  "main": "index.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HVNTapp/prettier-config.git"
