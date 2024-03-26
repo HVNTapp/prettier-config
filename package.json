@@ -12,5 +12,8 @@
   },
   "author": "Johan Guttormsson <johan@hvnt.co>",
   "license": "ISC",
-  "homepage": "https://github.com/HVNTapp/prettier-config#readme"
+  "homepage": "https://github.com/HVNTapp/prettier-config#readme",
+  "devDependencies": {
+    "prettier-plugin-organize-imports": "^3.2.4"
+  }
 }
